@@ -45,10 +45,11 @@ if __name__ == "__main__":
 
     # Sample inputs
     samples = [
-        "the day was very",
-        "she could not help",
-        "it was impossible to"
-    ]
+    "she was not very",
+    "it was a very",
+    "mr darcy was"
+   ]
+
 
     # Generate outputs
     for sample in samples:
